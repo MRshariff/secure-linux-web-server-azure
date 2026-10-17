@@ -69,3 +69,6 @@ BCA Student | Cybersecurity and Cloud Architecture
 ---
 
 *Built as part of my hands-on learning journey in cloud computing, Linux administration and cybersecurity.*
+## Architecture Diagram
+
+![Azure Web Server Architecture](imagesazure-architecture.png)
